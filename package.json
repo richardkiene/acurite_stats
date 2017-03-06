@@ -1,0 +1,32 @@
+{
+  "name": "acurite_stats",
+  "version": "1.0.0",
+  "description": "AcuRite Professional Weather Center Prometheus Stats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardkiene/acurite_stats.git"
+  },
+  "keywords": [
+    "weather",
+    "acurite",
+    "prometheus"
+  ],
+  "author": "Richard Kiene (richard.kiene@gmail.com)",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/richardkiene/acurite_stats/issues"
+  },
+  "homepage": "https://github.com/richardkiene/acurite_stats#readme",
+  "dependencies": {
+    "assert-plus": "^1.0.0",
+    "bunyan": "^1.8.8",
+    "dashdash": "^1.14.1",
+    "prom-client": "^7.1.0",
+    "restify": "^4.3.0",
+    "slice-file": "^1.0.0"
+  }
+}
