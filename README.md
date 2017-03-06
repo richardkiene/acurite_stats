@@ -1,5 +1,5 @@
 # acurite_stats
-Exposes Prometheus gauages collected from an AcuRite Professional Weather Center.
+Exposes Prometheus gauges collected from an AcuRite Professional Weather Center.
 
 ## Usage
 ```
