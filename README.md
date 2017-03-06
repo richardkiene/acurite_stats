@@ -15,6 +15,9 @@ options:
 $ node index.js --file=/path/to/acuriteweather.CSV --port=9163
 ```
 
+## Example Grafana dashboard
+![Weather Dashboard](https://us-east.manta.joyent.com/shmeeny/public/weatherdash.png)
+
 ## Exposed metrics
 * Outdoor Temp *gauge*
 * Outdoor Humidity  *gauge*
